@@ -7,10 +7,8 @@ import os
 
 from keep_alive import keep_alive
 keep_alive()
-# 7656798038:AAGy0655M1Usf89kH-p6DxoNzIPiGGUQA7A
-bot = telebot.TeleBot('7656798038:AAGy0655M1Usf89kH-p6DxoNzIPiGGUQA7A')
+bot = telebot.TeleBot('7799445869:AAEfNt2-tVEEAeT2QVvp91D7WkycCTAUNp4')
 
-# 5060071844
 admin_id = ["5060071844"]
 
 # File to store allowed user IDs
